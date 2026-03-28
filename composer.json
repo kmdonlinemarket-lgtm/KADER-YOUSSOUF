@@ -1,0 +1,11 @@
+{
+    "name": "recrutement-djibouti/platform",
+    "description": "Plateforme de recrutement à Djibouti",
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

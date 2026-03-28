@@ -1,0 +1,10 @@
+vendor/
+node_modules/
+.env
+.env.local
+.DS_Store
+.idea/
+*.log
+/config/database_local.php
+/assets/uploads/*
+!/assets/uploads/.gitkeep
