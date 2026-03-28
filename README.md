@@ -1,3 +1,66 @@
+# 🇩🇯 Plateforme de Recrutement Djibouti
+
+## 📌 Description
+Plateforme web de recrutement connectant les candidats et les recruteurs à Djibouti.  
+L'objectif est de simplifier le processus de recrutement grâce à une interface intuitive et un système de validation administrative pour garantir la fiabilité des recruteurs.
+
+## ✨ Fonctionnalités
+
+### 👤 Candidats
+- Inscription et création de profil
+- Recherche d'offres avec filtres avancés
+- Postulation en 1 clic
+- Suivi des candidatures en temps réel
+- Gestion des favoris
+- Alertes emploi personnalisées
+- Notifications par email
+
+### 🏢 Recruteurs
+- Inscription avec validation administrative (documents obligatoires)
+- Publication d'offres d'emploi
+- Gestion des candidatures reçues
+- Visualisation et téléchargement des CV
+- Planification d'entretiens
+- Statistiques sur les offres
+- Abonnements (Gratuit, Pro, Entreprise)
+
+### 👑 Administrateurs
+- Validation des comptes recruteurs (CNI, registre, attestation fiscale)
+- Gestion des utilisateurs (activation, désactivation, suppression)
+- Gestion des offres d'emploi
+- Statistiques globales et graphiques
+- Supervision des abonnements
+
+## 🛠 Technologies utilisées
+
+| Technologie | Version |
+|-------------|---------|
+| PHP | 8.x |
+| MySQL | 5.7+ |
+| HTML5/CSS3 | - |
+| JavaScript | ES6 |
+| Bootstrap | 5.3 |
+| Chart.js | Pour les graphiques statistiques |
+| PHPMailer | Envoi d'emails |
+
+## 📁 Structure du projet
+recrutement-djibouti/
+├── config/ # Configuration (base de données, email)
+├── includes/ # Fichiers inclus (header, footer, auth, notifications)
+├── pages/ # Pages par rôle
+│ ├── candidat/ # Espace candidat (dashboard, opportunités, profil...)
+│ ├── recruteur/ # Espace recruteur (dashboard, offres, candidatures...)
+│ └── admin/ # Espace admin (validation, gestion, statistiques...)
+├── assets/ # CSS, JS, images
+├── uploads/ # Fichiers uploadés (CV, documents CNI, registres...)
+├── api/ # API pour les requêtes AJAX
+├── sql/ # Scripts SQL
+├── index.php # Page d'accueil
+├── connexion.php # Connexion
+├── inscription.php # Inscription
+└── README.md # Documentation
+
+text
 
 ## 🚀 Installation
 
@@ -68,7 +131,7 @@ Pour que les emails fonctionnent :
 Nous tenons à exprimer notre profonde gratitude à toutes les personnes qui ont contribué à la réalisation de ce projet :
 
 ### Encadrement
-- **DR Moubarki ** pour leur accompagnement, leurs conseils précieux et leur disponibilité tout au long du développement.
+- **DR MOUBARKI ** pour leur accompagnement, leurs conseils précieux et leur disponibilité tout au long du développement.
 
 ### Équipe technique
 - **L'équipe de développement** pour leur engagement, leur travail acharné et leur passion qui ont permis de mener ce projet à bien malgré les défis techniques.
@@ -89,7 +152,6 @@ Nous tenons à exprimer notre profonde gratitude à toutes les personnes qui ont
 1.0.0 - Mars 2026
 
 ## 📧 Contact
-77013736
 
 ---
 
