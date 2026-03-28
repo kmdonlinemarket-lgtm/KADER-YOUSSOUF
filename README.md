@@ -68,7 +68,7 @@ Pour que les emails fonctionnent :
 Nous tenons à exprimer notre profonde gratitude à toutes les personnes qui ont contribué à la réalisation de ce projet :
 
 ### Encadrement
-- **Nos formateurs** pour leur accompagnement, leurs conseils précieux et leur disponibilité tout au long du développement.
+- **DR Moubarki ** pour leur accompagnement, leurs conseils précieux et leur disponibilité tout au long du développement.
 
 ### Équipe technique
 - **L'équipe de développement** pour leur engagement, leur travail acharné et leur passion qui ont permis de mener ce projet à bien malgré les défis techniques.
